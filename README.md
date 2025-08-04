@@ -47,7 +47,5 @@ Turning challenges into opportunities and using **technology for social good**.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juulsdev&theme=react-dark&hide_border=true)  
 
-![Metrics](https://metrics.lecoq.io/juulsdev?template=classic&isocalendar=1&languages=1&followup=1&config.timezone=Europe/Madrid)  
-
 
 </div>
