@@ -37,4 +37,17 @@ Turning challenges into opportunities and using **technology for social good**.
 
 
 ## My Statistics 🏅
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juulsdev&layout=compact)
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juulsdev&layout=compact&theme=react&hide_border=true)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juulsdev&show_icons=true&theme=react&hide_border=true&count_private=true)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juulsdev&theme=react&hide_border=true)  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juulsdev&theme=react-dark&hide_border=true)  
+
+![Metrics](https://metrics.lecoq.io/juulsdev?template=classic&isocalendar=1&languages=1&followup=1&config.timezone=Europe/Madrid)  
+
+
+</div>
