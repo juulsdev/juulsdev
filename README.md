@@ -35,7 +35,6 @@ Turning challenges into opportunities and using **technology for social good**.
 | Databases | ![MongoDB](https://img.shields.io/badge/MongoDB-5F5F5F?style=for-the-badge&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5F5F5F?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-5F5F5F?style=for-the-badge&logo=mysql) ![SQLite](https://img.shields.io/badge/SQLite-5F5F5F?style=for-the-badge&logo=sqlite) ![Oracle](https://img.shields.io/badge/Oracle-5F5F5F?style=for-the-badge&logo=oracle) ![SQL Server](https://img.shields.io/badge/SQL%20Server-5F5F5F?style=for-the-badge&logo=microsoft-sql-server) |
 
 
-
 ## My Statistics 🏅
 <div align="center">
 
