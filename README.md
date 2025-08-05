@@ -40,6 +40,8 @@ Turning challenges into opportunities and using **technology for social good**.
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juulsdev)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juulsdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juulsdev&show_icons=true&theme=react&hide_border=true&count_private=true)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juulsdev&theme=react&hide_border=true)  
