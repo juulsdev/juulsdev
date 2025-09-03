@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=50&duration=5000&pause=1500&color=B3B3B3&vCenter=true&width=1200&height=70&lines=%E2%8C%A8%EF%B8%8F+Writing+code+line+by+line...;%F0%9F%9A%80+Turning+ideas+into+reality+with+.NET+%26+Flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=50&duration=4500&pause=2000&color=B3B3B3&vCenter=true&width=1200&height=70&lines=%E2%8C%A8%EF%B8%8F+Writing+code+line+by+line...;%F0%9F%9A%80+Turning+ideas+into+reality+with+.NET+%26+Flutter)](https://git.io/typing-svg)
 ✨ Passionate about .NET and Flutter development!
 
 ### About Me 👨‍💻
