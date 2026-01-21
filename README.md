@@ -51,7 +51,7 @@ Turning challenges into opportunities and using **technology for social good**.
     <tr>
       <th>Tools</th>
       <th>
-        <img src="https://skillicons.dev/icons?i=eclipse,vscode,github,spring,firebase">
+        <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,github,spring,firebase,androidstudio,azure,aws">
       </th>
     </tr>
     <tr>
