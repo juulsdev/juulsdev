@@ -45,7 +45,7 @@ Turning challenges into opportunities and using **technology for social good**.
     <tr>
       <th>Backend</th>
       <th>
-        <img src="https://skillicons.dev/icons?i=cpp,java,php,laravel,nodejs,golang">
+        <img src="https://skillicons.dev/icons?i=cpp,java,nodejs,net">
       </th>
     </tr>
     <tr>
