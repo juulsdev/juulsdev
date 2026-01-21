@@ -45,13 +45,13 @@ Turning challenges into opportunities and using **technology for social good**.
     <tr>
       <th>Backend</th>
       <th>
-        <img src="https://skillicons.dev/icons?i=cpp,java,nodejs,net,csharp">
+        <img src="https://skillicons.dev/icons?i=cpp,java,nodejs,net,python">
       </th>
     </tr>
     <tr>
       <th>Tools</th>
       <th>
-        <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github,linux,idea,spring,powershell,maven,aws,gcp,vercel">
+        <img src="https://skillicons.dev/icons?i=eclipse,vscode,vstudio,github,spring,powershell,maven,aws,gcp,vercel">
       </th>
     </tr>
     <tr>
