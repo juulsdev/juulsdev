@@ -39,7 +39,7 @@ Turning challenges into opportunities and using **technology for social good**.
     <tr>
       <th>Frontend</th>
     <th>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,react,astro,jquery,flutter"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,react,astro,jquery,flutter,blazor"/>
     </th>
     </tr>
     <tr>
