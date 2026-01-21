@@ -33,31 +33,42 @@ Turning challenges into opportunities and using **technology for social good**.
 <div align="center">
   <table>
     <tr>
-      <th>Environment</th>
+      <th>Category</th>
       <th>Technologies</th>
     </tr>
+
+    <tr>
+      <th>Languages</th>
+      <th>
+        <img src="https://skillicons.dev/icons?i=java,cs,cpp,python,js,ts,dart"/>
+      </th>
+    </tr>
+
     <tr>
       <th>Frontend</th>
-    <th>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,react,astro,jquery,flutter,blazor"/>
-    </th>
+      <th>
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react,astro,jquery,flutter,blazor"/>
+      </th>
     </tr>
+
     <tr>
       <th>Backend</th>
       <th>
-        <img src="https://skillicons.dev/icons?i=cpp,java,nodejs,net,python">
+        <img src="https://skillicons.dev/icons?i=nodejs,net,spring,firebase"/>
       </th>
     </tr>
-    <tr>
-      <th>Tools</th>
-      <th>
-        <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,github,spring,firebase,androidstudio,azure,aws">
-      </th>
-    </tr>
+
     <tr>
       <th>Databases</th>
       <th>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql">
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+      </th>
+    </tr>
+
+    <tr>
+      <th>Tools & Platforms</th>
+      <th>
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,github,androidstudio,azure,aws"/>
       </th>
     </tr>
   </table>
