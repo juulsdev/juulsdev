@@ -35,7 +35,7 @@ Turning challenges into opportunities and using **technology for social good**.
 
 ## My Statistics 🏅
 <div align="center">
-  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juulsdev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juulsdev&show_icons=true&theme=react&hide_border=true&count_private=true)  
@@ -44,17 +44,15 @@ Turning challenges into opportunities and using **technology for social good**.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juulsdev&theme=react-dark&hide_border=true)  
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=juulsdev&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=juulsdev&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=juulsdev&show_icons=true" />
-</picture>
-
-
 </div>
+
+<div width="100%" display="flex" flex-direction="flex-column" align-items="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=juulsdev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="355" />
+<img src="https://github-readme-stats.vercel.app/api?username=juulsdev&show_icons=true&theme=react&hide_border=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juulsdev&theme=react&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juulsdev&theme=react-dark&hide_border=true" />
+</div>
+
+
+
+
