@@ -30,7 +30,7 @@ Turning challenges into opportunities and using **technology for social good**.
 
 ## Skills 💻
 
-<div align="center"> <table> <tr> <th>Environment</th> <th>Technologies</th> </tr> <tr> <th>Frontend</th> <th> <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,react,astro,jquery,flutter,blazor"/> </th> </tr> <tr> <th>Backend</th> <th> <img src="https://skillicons.dev/icons?i=cpp,java,nodejs,net,python"> </th> </tr> <tr> <th>Tools</th> <th> <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,github,spring,firebase,androidstudio,azure,aws"> </th> </tr> <tr> <th>Databases</th> <th> <img src="https://skillicons.dev/icons?i=mongodb,mysql"> </th> </tr> </table> </div>
+<div align="center"> <table> <tr> <th>Environment</th> <th>Technologies</th> </tr> <tr> <th>Frontend</th> <th> <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,react,astro,jquery,flutter,blazor"/> </th> </tr> <tr> <th>Backend</th> <th> <img src="https://skillicons.dev/icons?i=cpp,java,nodejs,net,python"> </th> </tr> <tr> <th>Tools</th> <th> <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,github,spring,firebase,androidstudio,azure,aws"> </th> </tr> <tr> <th>Databases</th> <th> <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres"> </th> </tr> </table> </div>
 
 
 ## My Statistics 🏅
